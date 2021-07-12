@@ -1,0 +1,86 @@
+.form-control {
+	box-shadow: none;		
+	font-weight: normal;
+	font-size: 13px;
+}
+.navbar {
+	background: rgb(248, 4, 4);
+	padding-left: 16px;
+	padding-right: 16px;
+	border-bottom: 1px solid #8191a5;
+	border-radius: 0;
+}
+.navbar .navbar-brand {
+	padding-left: 0;
+	font-size: 20px;
+	padding-right: 50px;
+}
+.navbar .navbar-brand b {
+	color: #33cabb;		
+}
+body{
+    background:url(https://fsnwllc.com/wp-content/uploads/2018/07/testimonials_banner-14783a85da9c0229ff28bdaddd9440f3.png);
+    }
+   
+.card-body{
+    background-color:rgb(0, 128, 58);
+}
+element.style {
+    position: fixed;
+}
+.resp-vtabs ul.resp-tabs-list {
+    float: left;
+    width: 190px;
+    margin-right: 2%;
+}
+@media only screen and (max-width: 768px){
+ul.resp-tabs-list {
+    display: none;
+}
+ul.resp-tabs-list {
+    margin: 0px;
+    padding: 0px;
+    border-left: 2px solid #FFF;
+}
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+user agent stylesheet
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+}
+.resp-tabs-list{
+text-align: left;
+color: #000;
+font-family: 'OswaldRegular';
+font-size: 16px;
+list-style: none;
+display: block;
+padding: 5px 6px !important;
+margin: 0;
+cursor: pointer;
+float: none;
+margin-bottom: 0%;
+margin-top: 2%;
+margin-left: 3%;}
+.resp-tabs-list:hover{
+	color: brown;
+	z-index: 5;
+}
